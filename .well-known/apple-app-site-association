@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9CFBUGYZ4Y.com.cidana.clipchef",
+        "paths": [ "/app/*" ]
+      }
+    ]
+  }  
+}
